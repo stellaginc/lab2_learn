@@ -41,10 +41,10 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   
               <tr align="center">  
   
-                     <td><b>ISBN</b></td> 
+                     <td><b>shuhao</b></td> 
                      <td><b>作者ID</b></td> 
   					<td><b>书籍名称</b></td> 
-  					<td><b>出版社</b></td>
+  					<td><b>出版�?/b></td>
   					<td><b>出版时间</b></td>
   					<td><b>价格</b></td>
                                      
